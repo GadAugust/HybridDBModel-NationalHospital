@@ -14,6 +14,9 @@ For a comprehensive view of the Entity-Relationship Diagram (ERD) detailing the 
 
 
 
+## Conceptual Data Model Overview
+
+To understand the structures and relationships defined within the National Hospital model, refer to the [View the Conceptual Data Model Documentation](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/The-conceptual-data-model/README.md). This documentation provides insights into the conceptual framework and the logical structure that underpins the database design.
 
 
 
