@@ -3,7 +3,7 @@
 
 **Background:**
 
-National Hospital is a leading healthcare provider facing significant challenges in managing vast amounts of data related to patient care, resource allocation, and operational efficiency. The existing data management system is fragmented, which hampers the hospital's ability to perform essential functions smoothly, such as scheduling, patient management, and accessing patient histories. Moreover, the lack of a sophisticated analytical system prevents the hospital from effectively using historical data for making informed strategic decisions and improving patient outcomes.
+National Hospital is a leading healthcare provider facing significant challenges in managing vast amounts of data related to patient care, resource allocation, and operational efficiency. The existing data management system is fragmented, which hampers the hospital's ability to perform essential functions smoothly, such as scheduling, patient management, and accessing patient histories. Moreover, the lack of a sophisticated analytical system prevents the hospital from effectively using historical data for making informed strategic decisions and improving patient outcomes
 
 **Current Challenges:**
 
