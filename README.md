@@ -37,19 +37,23 @@ To address these challenges, National Hospital aims to design and implement a hy
 - **Elevate Patient Care Standards:** Use integrated patient data and advanced analytics to enhance the quality of patient care, customize treatment plans, and predict healthcare outcomes more accurately.
 
 
+#### **Integration Strategy**
+- **Data Flow**: Data from the operational system (ER) flows into the analytical system (Snowflake) periodically through ETL (Extract, Transform, Load) processes.
+- **Updates**: The analytical system is updated regularly (e.g., nightly) to reflect changes in the operational system, ensuring that reports and analyses reflect the most current data.
+
 ## Detailed ERD and SnowFlake Schema draft
 
 
-[Entities and Data Types](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/ERD-Entities%2C-Attributes%2C-and-Data-Types)  Entity-Relationship Diagram (ERD) detailing the entities, their attributes, and the designated data types used in the National Hospital model, please see  
+- [Entities and Data Types](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/ERD-Entities%2C-Attributes%2C-and-Data-Types)  Entity-Relationship Diagram (ERD) detailing the entities, their attributes, and the designated data types used in the National Hospital model, please see  
 
-[View the Snowflake Schema Draft](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/SnowFlake-Schema-draft)
+- [View the Snowflake Schema Draft](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/SnowFlake-Schema-draft)
  
-[View the Conceptual Data Model DRAFT](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/The-conceptual-data-model/README.md). This documentation provides insights into the conceptual framework and the logical structure that underpins the database design.
+- [View the Conceptual Data Model DRAFT](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/The-conceptual-data-model/README.md). This documentation provides insights into the conceptual framework and the logical structure that underpins the database design.
 
-[View the Data Models Branch](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/The-Data-Models). This branch provides insights and detailed descriptions of each model's structure and utility.
+- [View the Data Models Branch](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/The-Data-Models). This branch provides insights and detailed descriptions of each model's structure and utility.
 
 
-[View the Desired Project Outcomes Documentation](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/Desired-Project-Out-Come/README.md)
+- [View the Desired Project Outcomes Documentation](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/Desired-Project-Out-Come/README.md)
 
 
 ### **Conclusion:**
