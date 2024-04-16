@@ -1,13 +1,5 @@
-# HybridDBModel-NationalHospital
-This GitHub repo hosts the data models and docs for a hybrid database model tailored for National Hospital, blending an ER Diagram for operational tasks and a Snowflake Schema for analytics. This setup optimizes daily hospital management and supports strategic data analysis, enhancing efficiency and decision-making capabilities.
 
-### ***Objective Statement:***
-
-The primary goal of this project is to design and implement a dual-purpose data management system for National Hospital. This innovative system will combine an Entity-Relationship (ER) diagram for managing daily operations with a Snowflake Schema for advanced data analytics. Our objective is to centralize the capture, storage, and retrieval of comprehensive healthcare data, simplifying processes and enhancing efficiency across the hospital's operations. This hybrid approach will not only streamline operational tasks but also bolster the hospital's capabilities in strategic decision-making through improved data analysis. By integrating these two powerful database models, National Hospital will enhance patient care quality and adapt more quickly to changing healthcare needs.
-
-For an effective ER diagram for a National Hospital, it is essential to define not only the entities and relationships but also the appropriate data types for each attribute. This ensures that the database is optimized for performance and accuracy. Here’s a detailed schema of entities along with their attributes, primary keys, and proposed data types:
-
-### **ER diagram for the operational database supporting daily transactions.**  
+### **ER schema for the operational database supporting daily transactions.**  
 
 ### **Entities and Data Types           
 
@@ -172,23 +164,9 @@ Below is a description of a conceptual data model for the National Hospital case
      - Many-to-One with Patient (A Prescription is for one Patient)
      - Many-to-One with Doctor (A Prescription is issued by one Doctor)
 
-...and so on for the remaining entities such as Staff, Equipment, Room, Billing, Insurance, and Emergency Contact, following a similar structure of identifying attributes, primary keys, and specifying the relationships they have with other entities.
-
-### **Creating the Diagram in Lucidchart:**
-
-- **Step 1**: Start by creating entities as boxes and name them according to the list above (e.g., Ward, Patient, Doctor).
-- **Step 2**: Add attributes listed for each entity inside its box. You can simplify by mentioning only the key attributes for a more uncluttered diagram.
-- **Step 3**: Draw relationships between entities using lines. Label the lines with the relationship type (e.g., One-to-Many, Many-to-One, Many-to-Many).
-- **Step 4**: Where applicable, indicate the multiplicity of the relationships (e.g., 1:N for One-to-Many) near the connecting lines.
-- **Step 5**: Review and ensure all entities are connected as per the described relationships and that the primary keys are indicated.
-
-This conceptual model serves as a blueprint for understanding how data is interconnected within the National Hospital’s database, aiding in the development of a detailed logical and physical database design.
 
 
 
 
 
 
-
-
-### **Snowflake schema for the data warehouse where data from various operational databases is consolidated for analysis and reporting.** 
