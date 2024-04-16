@@ -37,7 +37,7 @@ To address these challenges, National Hospital aims to design and implement a hy
 - **Elevate Patient Care Standards:** Use integrated patient data and advanced analytics to enhance the quality of patient care, customize treatment plans, and predict healthcare outcomes more accurately.
 
 
-## Detailed ERD DRAFTS
+## Detailed ERD draft SnowFlake Schema draft
 
 For a comprehensive view of the Entity-Relationship Diagram (ERD) detailing the entities, their attributes, and the designated data types used in the National Hospital model, please see  [Entities and Data Types](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/ERD-Entities%2C-Attributes%2C-and-Data-Types).
 
