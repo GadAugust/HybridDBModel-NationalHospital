@@ -85,13 +85,6 @@ To effectively design a Snowflake Schema that complements the ERD for National H
 - The design supports ad-hoc reporting and multidimensional analysis, which are essential for strategic planning and operational improvements in a hospital setting.
 - Implementation would involve setting up ETL processes to regularly populate and update the OLAP database from the OLTP system, ensuring data freshness and reliability.
 
-### **Conclusion**
 
-The proposed Snowflake Schema effectively expands on the ERD by providing a structured framework for detailed analytical queries required in National Hospital’s OLAP system. This design not only facilitates easier and more comprehensive data analysis but also ensures that the operational efficiency of the OLTP system is not compromised, thereby supporting the hospital’s mission to deliver excellent
 
-#### **Integration Strategy**
-- **Data Flow**: Data from the operational system (ER) flows into the analytical system (Snowflake) periodically through ETL (Extract, Transform, Load) processes.
-- **Updates**: The analytical system is updated regularly (e.g., nightly) to reflect changes in the operational system, ensuring that reports and analyses reflect the most current data.
 
-### **Conclusion**
-This hybrid approach leverages the ER model for day-to-day hospital operations and the Snowflake model for in-depth data analysis, giving the National Hospital the flexibility to meet both immediate operational needs and strategic analytical requirements. This design ensures that the hospital can manage patient care efficiently while also gaining valuable insights from their
