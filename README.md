@@ -37,16 +37,16 @@ To address these challenges, National Hospital aims to design and implement a hy
 - **Elevate Patient Care Standards:** Use integrated patient data and advanced analytics to enhance the quality of patient care, customize treatment plans, and predict healthcare outcomes more accurately.
 
 
-## Detailed ERD draft and SnowFlake Schema draft
+## Detailed ERD and SnowFlake Schema draft
 
-For a comprehensive view of the Entity-Relationship Diagram (ERD) detailing the entities, their attributes, and the designated data types used in the National Hospital model, please see  
-[Entities and Data Types](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/ERD-Entities%2C-Attributes%2C-and-Data-Types).
+
+[Entities and Data Types](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/ERD-Entities%2C-Attributes%2C-and-Data-Types)  Entity-Relationship Diagram (ERD) detailing the entities, their attributes, and the designated data types used in the National Hospital model, please see  
 
 [View the Snowflake Schema Draft](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/SnowFlake-Schema-draft)
-
-
-To understand the structures and relationships defined within the National Hospital model,  
+ 
 [View the Conceptual Data Model DRAFT](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/The-conceptual-data-model/README.md). This documentation provides insights into the conceptual framework and the logical structure that underpins the database design.
+
+[View the Data Models Branch](https://github.com/GadAugust/HybridDBModel-NationalHospital/tree/The-Data-Models). This branch provides insights and detailed descriptions of each model's structure and utility.
 
 
 [View the Desired Project Outcomes Documentation](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/Desired-Project-Out-Come/README.md)
