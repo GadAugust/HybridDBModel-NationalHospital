@@ -101,6 +101,12 @@
 Each data type specified aims to optimize the database’s storage efficiency and query performance, ensuring that the system can handle extensive data inputs and retrievals effectively. The chosen data types reflect the expected format of the data, such as using `VARCHAR` for strings, `INT` for integers, `DECIMAL` for financial amounts, and `DATETIME` for timestamps
 
 
+## Conceptual Data Model Overview
+
+To understand the structures and relationships defined within the National Hospital model, refer to the [View the Conceptual Data Model Documentation](https://github.com/GadAugust/HybridDBModel-NationalHospital/blob/The-conceptual-data-model/README.md). This documentation provides insights into the conceptual framework and the logical structure that underpins the database design.
+
+
+
 
 
 
